@@ -30,7 +30,6 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a>  •
- <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a>  •
  <a href="#-clone-este-projeto">Clone</a>  • 
  <a href="#-tecnologias">Tecnologias</a>  • 
 </p>
@@ -73,7 +72,7 @@ $ npm start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-end**  React
+#### **Front-end**: React
 
 - Aos
 - React-Icons
